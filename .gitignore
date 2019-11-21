@@ -1,0 +1,6 @@
+*.log
+node_modules
+.eslintcache
+public/
+.cache/
+yarn.lock
